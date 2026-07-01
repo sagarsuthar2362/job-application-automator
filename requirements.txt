@@ -1,0 +1,4 @@
+python-dotenv
+pypdf
+openpyxl
+playwright
