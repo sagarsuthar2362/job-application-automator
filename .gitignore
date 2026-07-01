@@ -1,0 +1,11 @@
+# Ignore local environment configurations
+.env
+
+# Ignore Excel outputs containing applied history
+*.xlsx
+
+# Ignore your actual resume file
+*.pdf
+
+# Ignore the virtual environment file   
+venv/
